@@ -46,7 +46,7 @@
   "name": "Enigmatica6",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-01-21T03:47:54.1838382Z",
+  "lastPreviousMatchUpdate": "2021-01-21T06:05:06.2903241Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.4",
@@ -173,7 +173,7 @@
       "dateInstalled": "2020-12-14T19:09:33.5247793Z",
       "dateUpdated": "2020-12-14T19:09:33.560681Z",
       "dateLastUpdateAttempted": "2020-12-14T19:09:33.560681Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1928,6 +1928,85 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 246939,
+      "gameInstanceID": "277e08eb-95fe-47a7-8a90-7b58be2c6d01",
+      "installedFile": {
+        "id": 3073517,
+        "displayName": "WaterStrainer-1.16.3-10.0.0.jar",
+        "fileName": "WaterStrainer-1.16.3-10.0.0.jar",
+        "fileDate": "2020-10-06T18:55:04.067Z",
+        "fileLength": 232388,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3073/517/WaterStrainer-1.16.3-10.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3427212567,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mods",
+            "fingerprint": 1004920195,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2642955441,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 257600705,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2761095526,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3526095311,
+        "gameVersion": [
+          "1.16.3",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "WaterStrainer-1.16.3-10.0.0.jar"
+      },
+      "dateInstalled": "2021-01-21T04:22:39.1132103Z",
+      "dateUpdated": "2021-01-21T04:22:39.1152111Z",
+      "dateLastUpdateAttempted": "2021-01-21T04:22:39.1152111Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 251407,
@@ -23033,7 +23112,7 @@
       "dateInstalled": "2020-11-22T21:51:39.949508Z",
       "dateUpdated": "2021-01-18T21:51:36.2273713Z",
       "dateLastUpdateAttempted": "2021-01-18T21:51:36.2273713Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
