@@ -53,6 +53,8 @@ ops.json
 ModpackUploader.bat
 post-file-to-discord.bat
 .build.json
+optionsof.txt
+woot/loot.json
 
 # Instance Sync
 **/*.jar
