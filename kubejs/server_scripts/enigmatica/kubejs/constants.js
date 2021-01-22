@@ -37,12 +37,14 @@ const modPriorities = [
     'tmechworks',
     'industrialforegoing',
     'botania',
+    'silentgear',
     'quark',
     'pedestals',
     'refinedstorage',
     'mapperbase',
     'bloodmagic',
     'eidolon',
+    'buildersaddition',
     'morevanillalib'
 ];
 
