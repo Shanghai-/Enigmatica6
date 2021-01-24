@@ -2,7 +2,7 @@
 ┃┏╸bo:enabled
 ┃┣> Variable Type: java.lang.Boolean
 ┃┣> Default: true
-┃┗> valkyrielib.module.enabled
+┃┗╸
 ┃┏╸ma:cells
 ┃┃┏╸ma:litherite
 ┃┃┃┏╸ma:default_base_color
@@ -166,7 +166,7 @@
 ┃┃┏╸in:production_rate
 ┃┃┣> Variable Type: java.lang.Integer
 ┃┃┣> Default: 128
-┃┃┣> label.valkyrielib.requirements: [128~128000]
+┃┃┣> label.valkyrielib.requirements: [-2147483648~2147483647]
 ┃┃┗╸
 ┃┃┏╸ma:litherite
 ┃┃┃┏╸ma:default_base_color
